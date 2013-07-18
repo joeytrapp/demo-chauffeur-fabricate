@@ -8,6 +8,6 @@
 
 ## Install and startup
 
-	git clone 
+	git clone git@github.com:joeytrapp/demo-chauffeur-fabricate.git
 	npm install
 	grunt dev
